@@ -1,0 +1,26 @@
+{
+  "name": "learning-map",
+  "version": "1.0.0",
+  "description": "独学を進めるにあたって、現状の自分の中の知識は系統立てて整理されていないため、何を学習すればよいのか迷子になっています。   この状態を解消し、学習を進めていきたい。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minase-0/learning-map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minase-0/learning-map/issues"
+  },
+  "homepage": "https://github.com/minase-0/learning-map#readme",
+  "devDependencies": {
+    "textlint": "^12.2.1",
+    "textlint-rule-preset-ja-spacing": "^2.2.0",
+    "textlint-rule-preset-ja-technical-writing": "^7.0.0",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
+  }
+}
